@@ -1,7 +1,7 @@
 class Hash
   def keys_of(arguments)
     # code goes here
-        animal_keys = [  ]  
+        arguments_keys = [  ]  
     value.each do |argument|
     
       self.each do |animal, location|
